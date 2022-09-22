@@ -23,7 +23,7 @@ Script with GUI to Wake-On-Lan another Pc for Steam Remote Play
 
 https://github.com/scawp/Steam-Deck.Wake-Up-Rig
 
-Videos
+# Videos
 
 # Using a NTFS Formatted SD-Card
 
