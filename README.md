@@ -7,8 +7,6 @@ Script to Auto Disable the Steam Deck Controls on detecting External Controllers
 
 https://github.com/scawp/Steam-Deck.Auto-Disable-Steam-Controller
 
-https://github.com/scawp/Steam-Deck.Auto-Disable-Steam-Controller
-
 # Steam-Deck.Mount-External-Drive
 
 Script to Auto Mount External USB Drives
