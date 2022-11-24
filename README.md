@@ -20,6 +20,7 @@ https://github.com/scawp/Steam-Deck.Mount-External-Drive
 # Steam-Deck.Shader-Cache-Killer
 
 Script with GUI To Delete unwanted Shader Cache & CompatData
+
 NEW: Move Shader Cache/CompatData to install Device
 
 https://github.com/scawp/Steam-Deck.Shader-Cache-Killer
