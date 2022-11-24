@@ -20,8 +20,15 @@ https://github.com/scawp/Steam-Deck.Mount-External-Drive
 # Steam-Deck.Shader-Cache-Killer
 
 Script with GUI To Delete unwanted Shader Cache & CompatData
+NEW: Move Shader Cache/CompatData to install Device
 
 https://github.com/scawp/Steam-Deck.Shader-Cache-Killer
+
+# Steam-Deck.Force-SteamOS-On-Boot
+
+Systemd service to force SteamOS as Primary Boot
+
+https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot
 
 # Steam-Deck.Wake-Up-Rig
 
